@@ -1,3 +1,6 @@
+# Codewars: Sudoku Solution Validator
+# Source: https://www.codewars.com/kata/529bf0e9bdf7657179000008/train/python
+
 def valid_solution(board):
   # Validity Check
   def check(result:list):
